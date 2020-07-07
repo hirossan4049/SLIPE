@@ -5,7 +5,7 @@ this repository is written in python.
 
 
 ## Introduction
-I will make it referring to (this)[https://sgrk.blog.fc2.com/blog-entry-174.html].
+I will make it referring to [this](https://sgrk.blog.fc2.com/blog-entry-174.html).
 
 
 ## What "SLIPE!"?
